@@ -16,6 +16,3 @@
 [submodule "wp-content/plugins/post-meta-inspector-extended"]
 	path = wp-content/plugins/post-meta-inspector-extended
 	url = https://github.com/cuadric/post-meta-inspector-extended
-[submodule "wp-content/themes/devschoice/scripts"]
-	path = wp-content/themes/devschoice/scripts
-	url = https://github.com/cuadric/jquery-balanceheights.git
