@@ -1,3 +1,18 @@
 [submodule "wp-content/plugins/show-template-extended"]
 	path = wp-content/plugins/show-template-extended
 	url = https://github.com/cuadric/show-template-extended
+[submodule "wp-content/mu-plugins"]
+	path = wp-content/mu-plugins
+	url = https://github.com/cuadric/mu-plugins
+[submodule "wp-content/plugins/cleaner-custom-fields-metabox"]
+	path = wp-content/plugins/cleaner-custom-fields-metabox
+	url = https://github.com/cuadric/cleaner-custom-fields-metabox
+[submodule "wp-content/plugins/cuadric-page-navi"]
+	path = wp-content/plugins/cuadric-page-navi
+	url = https://github.com/cuadric/cuadric-page-navi
+[submodule "wp-content/plugins/contact-data"]
+	path = wp-content/plugins/contact-data
+	url = https://github.com/cuadric/contact-data
+[submodule "wp-content/plugins/post-meta-inspector-extended"]
+	path = wp-content/plugins/post-meta-inspector-extended
+	url = https://github.com/cuadric/post-meta-inspector-extended
