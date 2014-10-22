@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/show-template-extended"]
+	path = wp-content/plugins/show-template-extended
+	url = https://github.com/cuadric/show-template-extended
