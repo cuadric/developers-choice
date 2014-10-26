@@ -1,0 +1,19 @@
+/* Author */
+
+	Your name
+	Contact: hello [at] humanstxt.org
+	Twitter: @youraccount
+	From:Your City - Country
+	Graphic Design and front end development
+
+/* THANKS */
+
+	Media Queries by: Marta Armada (@martuishere) and Javier Usobiaga (@htmlboy)
+
+
+/* SITE */
+
+	Last update:2012/02/04
+	Language: English / Castellano
+	Doctype:HTML5
+	IDE: Sublime Text, Illustrator
